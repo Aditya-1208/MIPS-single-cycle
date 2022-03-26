@@ -1,0 +1,310 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignment 1/Assignements-EC340/MIPS-single-cycle-master
+valu
+Z0 !s110 1648297954
+!i10b 1
+!s100 ndRRZbTU@DMjNCIb7_lVJ0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFjVAZzIVB6flEQ]DjVI9@1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3
+Z4 w1648291332
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alu.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alu.v
+!i122 0
+L0 1 25
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1648297953.000000
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alu.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+valucontrol
+R0
+!i10b 1
+!s100 5zK>cizOB6<?V:]NelOzc3
+R1
+I8F_l@Mm<X2;aQ8jJ5[bhQ2
+R2
+R3
+R4
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alucontrol.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alucontrol.v
+!i122 1
+L0 1 22
+R5
+r1
+!s85 0
+31
+Z8 !s108 1648297954.000000
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alucontrol.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/alucontrol.v|
+!i113 1
+R6
+R7
+vandm
+R0
+!i10b 1
+!s100 d9DXEHYm=XKH=V8^JoB:E1
+R1
+I7Jo7@CW;dnXJWb8;D_3^=3
+R2
+R3
+Z9 w1648272720
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/andm.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/andm.v
+!i122 2
+L0 1 8
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/andm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/andm.v|
+!i113 1
+R6
+R7
+vcontrol
+R0
+!i10b 1
+!s100 `iHDffzS6AzIk;Jk[9HSz3
+R1
+ICTaXR4aA@^]P3ckhSj;Ye2
+R2
+R3
+R4
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/control.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/control.v
+!i122 3
+L0 1 31
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/control.v|
+!i113 1
+R6
+R7
+vdatapath
+!s110 1648298076
+!i10b 1
+!s100 SD^9D:V4k<3]WOSCg?JdF0
+R1
+IWeRzj5MOkLOi:]8YnKU6R3
+R2
+R3
+w1648298065
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/datapath.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/datapath.v
+!i122 12
+L0 1 55
+R5
+r1
+!s85 0
+31
+!s108 1648298076.000000
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/datapath.v|
+!i113 1
+R6
+R7
+vmem_async
+!s110 1648300205
+!i10b 1
+!s100 @9AVdQUHASjVToaCM7>gM2
+R1
+IG<7giklQnYdeCegYhFiFD1
+R2
+R3
+w1648300194
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_async.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_async.v
+!i122 13
+L0 1 15
+R5
+r1
+!s85 0
+31
+!s108 1648300205.000000
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_async.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_async.v|
+!i113 1
+R6
+R7
+vmem_sync
+R0
+!i10b 1
+!s100 j7SUJIbH5jL8JWKc=6z:A0
+R1
+ISZ:G;h:4KZo4dK^PH>8bL0
+R2
+R3
+w1648297858
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_sync.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_sync.v
+!i122 5
+L0 1 27
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_sync.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mem_sync.v|
+!i113 1
+R6
+R7
+vmips
+Z10 !s110 1648297955
+!i10b 1
+!s100 ogW5@eeC[?3Al:UD3dGjX2
+R1
+IALG[a_9NO@zdVOMf^[E=93
+R2
+R3
+R9
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mips.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mips.v
+!i122 6
+L0 1 23
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mips.v|
+!i113 1
+R6
+R7
+vmux
+R10
+!i10b 1
+!s100 M6^VFe8i]V6`IOod[9?VF3
+R1
+ISLER0f[EacT9l>S@:fY^l3
+R2
+R3
+R9
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mux.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mux.v
+!i122 7
+L0 1 12
+R5
+r1
+!s85 0
+31
+Z11 !s108 1648297955.000000
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/mux.v|
+!i113 1
+R6
+R7
+vpclogic
+!s110 1648297992
+!i10b 1
+!s100 FJ`Qi_=OEZno:Z<oMnT=[0
+R1
+IIXgJLnl>fMYGC2aOBY4A:2
+R2
+R3
+w1648297990
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/pclogic.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/pclogic.v
+!i122 11
+L0 1 29
+R5
+r1
+!s85 0
+31
+!s108 1648297992.000000
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/pclogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/pclogic.v|
+!i113 1
+R6
+R7
+vrf
+R10
+!i10b 1
+!s100 4d==FhE<P6_K1R6Ni67V=0
+R1
+Id]e@<=3@7Bn2Igm[=TH:Q0
+R2
+R3
+R9
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/rf.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/rf.v
+!i122 8
+Z12 L0 1 21
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/rf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/rf.v|
+!i113 1
+R6
+R7
+vsignextend
+R10
+!i10b 1
+!s100 G4`63XeP8eZ>XTG_jX2mG0
+R1
+IMebEnKI`<c6lkODK6Y]X;2
+R2
+R3
+R9
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/signextend.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/signextend.v
+!i122 9
+L0 1 5
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/signextend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/signextend.v|
+!i113 1
+R6
+R7
+vtb_mips
+R10
+!i10b 1
+!s100 cd8GWAhjXmJ8RgIOzNZJ[2
+R1
+IVg5cJZ7XbDUzjjiRH4SnV3
+R2
+R3
+R9
+8C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/tb_mips.v
+FC:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/tb_mips.v
+!i122 10
+R12
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/tb_mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/91831/Desktop/Tech and inno/nitk/sem-4 kill it/ec340 COA/assignments/Assignements-EC340/Assignment 3/tb_mips.v|
+!i113 1
+R6
+R7

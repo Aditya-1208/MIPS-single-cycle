@@ -1,0 +1,86 @@
+vsim work.tb_mips
+# vsim work.tb_mips 
+# Start time: 18:32:55 on Mar 26,2022
+# Loading work.tb_mips
+# Loading work.mips
+# Loading work.datapath
+# Loading work.mem_async
+# Loading work.mem_sync
+# Loading work.rf
+# Loading work.alucontrol
+# Loading work.alu
+# Loading work.pclogic
+# Loading work.andm
+# Loading work.signextend
+# Loading work.mux
+# Loading work.control
+add wave -position insertpoint sim:/tb_mips/mips_DUT/*
+add wave -position insertpoint sim:/tb_mips/mips_DUT/Datapath/*
+add wave -position insertpoint sim:/tb_mips/mips_DUT/Control/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/tb_mips/mips_DUT/Datapath/meminstr/#ASSIGN#11/*
+add wave -position insertpoint sim:/tb_mips/mips_DUT/Datapath/memdata/*
+quit -sim
+# End time: 18:39:38 on Mar 26,2022, Elapsed time: 0:06:43
+# Errors: 0, Warnings: 1
+# Compile of mem_async.v was successful.
+vsim work.tb_mips
+# vsim work.tb_mips 
+# Start time: 18:40:15 on Mar 26,2022
+# Loading work.tb_mips
+# Loading work.mips
+# Loading work.datapath
+# Loading work.mem_async
+# Loading work.mem_sync
+# Loading work.rf
+# Loading work.alucontrol
+# Loading work.alu
+# Loading work.pclogic
+# Loading work.andm
+# Loading work.signextend
+# Loading work.mux
+# Loading work.control
+add wave -position insertpoint sim:/tb_mips/*
+add wave -position insertpoint sim:/tb_mips/mips_DUT/Datapath/*
+add wave -position insertpoint sim:/tb_mips/mips_DUT/Control/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 18:48:32 on Mar 26,2022, Elapsed time: 0:08:17
+# Errors: 0, Warnings: 2

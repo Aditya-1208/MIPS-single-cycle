@@ -10,6 +10,6 @@ output [(S-1):0] d;
 reg [S-1:0] memory [L-1:0];
 assign d=memory[a];
 
-initial $readmemh("ourInstruction.dat", memory);
+initial $readmemh("meminstr.dat", memory);
 
 endmodule
